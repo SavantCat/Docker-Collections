@@ -1,0 +1,1 @@
+docker build -t hotta/obstruction-free-photography:1.0 .
